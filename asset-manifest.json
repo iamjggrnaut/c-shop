@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/c-shop/static/css/main.b4e17e19.css",
+    "main.js": "/c-shop/static/js/main.9005d630.js",
+    "static/media/hero-section-video.mp4": "/c-shop/static/media/hero-section-video.3ff9bcc2e65b19410177.mp4",
+    "static/media/coffee-bags.jpg": "/c-shop/static/media/coffee-bags.2bcf8044e687f3223985.jpg",
+    "static/media/coffee-green.jpg": "/c-shop/static/media/coffee-green.bd8bbbbb1bacfd1e7038.jpg",
+    "static/media/logo.png": "/c-shop/static/media/logo.d852d2b3f894df6d9be9.png",
+    "index.html": "/c-shop/index.html",
+    "main.b4e17e19.css.map": "/c-shop/static/css/main.b4e17e19.css.map",
+    "main.9005d630.js.map": "/c-shop/static/js/main.9005d630.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4e17e19.css",
+    "static/js/main.9005d630.js"
+  ]
+}
